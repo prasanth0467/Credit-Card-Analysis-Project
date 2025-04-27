@@ -23,7 +23,8 @@ This project analyzes customer spending patterns and demographics to recommend t
   - Total Customers, Total Spend, and Average Monthly Spend per Customer.
   - Visualizations for Top Spending Categories, Cities, and Customer Demographics.
   - Income Utilization analysis (e.g., % of income spent monthly).
-- **Data-Backed Recommendations:** Insights that guide the design of a tailored credit card offering.
+- **Data-Backed Recommendations:**
+  - Insights that guide the design of a tailored credit card offering.
 
 ---
 
